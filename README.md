@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- ======================= HEADER ======================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=240&section=header&text=GODE%20SIVARAMAKRISHNA%20DURGAPRASAD&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=CLOUD%20%E2%80%A2%20BACKEND%20%E2%80%A2%20DISTRIBUTED%20SYSTEMS%20%E2%80%A2%20AI&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Gode%20Sivaramakrishna%20Durgaprasad&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Gode Sivaramakrishna Durgaprasad
 
-# 👋 Hi, I'm Gode Sivaramakrishna Durgaprasad
+### `Cloud & Backend Engineer`
 
-### ☁️ Cloud & Backend Engineer
-
-### ⚙️ Distributed Systems • Serverless • DevOps • AI
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&height=40&lines=AWS+Certified+Developer+%E2%80%93+Associate;Building+Cloud-Native+Applications;Designing+Distributed+Systems;Automating+Infrastructure+with+Terraform;Building+AI-Integrated+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+**Designing cloud-native systems · building scalable backends · integrating AI into production workflows**
 
 <br/>
 
@@ -23,7 +17,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:godesivaramakrishna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/23MH1A0424/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -37,72 +31,60 @@
 
 ---
 
-# 🧑‍💻 About Me
+## `01` · ENGINEERING IDENTITY
 
 ```python
 class GodeSivaramakrishnaDurgaprasad:
 
-    role = "Cloud & Backend Engineer"
+    identity = {
+        "role": "Cloud & Backend Engineer",
+        "focus": [
+            "Cloud Architecture",
+            "Backend Engineering",
+            "Distributed Systems",
+            "DevOps & Automation",
+            "AI × Cloud Integration"
+        ]
+    }
 
     education = {
-        "degree": "B.Tech - Electronics & Communication Engineering",
+        "degree": "B.Tech — Electronics & Communication Engineering",
         "college": "Aditya College of Engineering and Technology",
-        "graduation": "2027",
+        "graduation": 2027,
         "cgpa": "7.81 / 10"
     }
 
-    certification = "AWS Certified Developer - Associate"
+    certification = "AWS Certified Developer — Associate"
 
-    interests = [
-        "Distributed Systems",
-        "Cloud Computing",
-        "Serverless Architecture",
-        "Backend Engineering",
-        "DevOps & CI/CD",
-        "AI-Integrated Systems"
-    ]
-
-    currently_learning = [
-        "Distributed Systems",
-        "Infrastructure as Code",
-        "Cloud Architecture",
-        "AI × Cloud Integration"
-    ]
-
-    philosophy = "Build → Learn → Improve → Repeat 🚀"
+    philosophy = "Build → Understand → Automate → Scale → Improve"
 ```
+
+> I enjoy turning ideas into reliable systems — from backend APIs and cloud infrastructure to serverless workflows and AI-powered applications.
 
 ---
 
-# ⚡ What I Do
+## `02` · CURRENT ENGINEERING FOCUS
 
 <div align="center">
 
-|  ☁️ Cloud Engineering  | ⚙️ Backend Engineering | 🤖 AI Engineering |
-| :--------------------: | :--------------------: | :---------------: |
-|        AWS & GCP       |      Python & Java     |      AI APIs      |
-|       Serverless       |        REST APIs       |        NLP        |
-|       Containers       |      Microservices     |   AI Integration  |
-| Infrastructure as Code |     Database Design    |      Cloud AI     |
-
-|    🔄 DevOps   |    🧩 System Design   |    🧠 Problem Solving   |
-| :------------: | :-------------------: | :---------------------: |
-|    Terraform   |  Distributed Systems  |     Data Structures     |
-|     Docker     | Scalable Architecture |        Algorithms       |
-|     Jenkins    | Client-Server Systems |   Dynamic Programming   |
-| GitHub Actions |   Cloud Architecture  | Competitive Programming |
+|    ☁️ Cloud    |  ⚙️ Backend |      🧩 Systems     |      🤖 AI     |    🔄 DevOps   |
+| :------------: | :---------: | :-----------------: | :------------: | :------------: |
+|       AWS      |    Python   | Distributed Systems |     AI APIs    |    Terraform   |
+|       GCP      |     Java    |    System Design    |       NLP      |     Docker     |
+|   Serverless   | Spring Boot |     Scalability     |    Cloud AI    |     Jenkins    |
+| Infrastructure |   FastAPI   |     Architecture    | AI Integration | GitHub Actions |
 
 </div>
 
 ---
 
-# 🛠️ My Tech Stack
+## `03` · TECHNOLOGY MATRIX
 
-## ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker&perline=8"/>
 
 <br/><br/>
 
@@ -112,19 +94,16 @@ class GodeSivaramakrishnaDurgaprasad:
 <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD3444?style=for-the-badge&logo=amazoniam&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 </div>
 
----
-
-## 💻 Programming Languages
+### 💻 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,js&perline=8"/>
 
 <br/><br/>
 
@@ -132,51 +111,19 @@ class GodeSivaramakrishnaDurgaprasad:
 
 </div>
 
----
-
-## ⚙️ Backend & Frameworks
+### ⚙️ Backend & Frameworks
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react&perline=8" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react&perline=8"/>
 
 </div>
 
----
-
-## 🎨 Frontend
+### 🔄 DevOps & Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,js&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-
-</div>
-
----
-
-## 🔄 DevOps & CI/CD
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,terraform,jenkins,githubactions,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,jenkins,githubactions,git,github&perline=8"/>
 
 <br/><br/>
 
@@ -185,9 +132,7 @@ class GodeSivaramakrishnaDurgaprasad:
 
 </div>
 
----
-
-# 🤖 AI & Cloud AI
+### 🤖 AI & Cloud AI
 
 <div align="center">
 
@@ -202,178 +147,336 @@ class GodeSivaramakrishnaDurgaprasad:
 
 ---
 
-# 🚀 Featured Projects
+# `04` · SYSTEMS I'VE BUILT
 
-<div align="center">
+## ☁️ CloudCompare AI
 
-### ☁️ CloudCompare AI
-
-**Distributed Cloud & AI Service Comparison Platform**
+### Distributed Cloud & AI Service Comparison Platform
 
 <a href="https://github.com/Godesivaramakrishna/Cloud-Compare-AI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+**Problem**
 
-> An AI-integrated platform for comparing cloud providers and AI platforms across pricing, scalability, performance, security and regional availability.
+Comparing cloud and AI platforms across pricing, scalability, performance, security and regional availability can become complex and fragmented.
 
-### 🏗️ Architecture
+**Solution**
+
+An AI-integrated platform designed to bring cloud and AI service comparison into a unified application.
+
+### Architecture
 
 ```text
-                         👤 USER
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │  React Frontend │
-                  │   Tailwind CSS  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   API Gateway   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Spring Boot API │
-                  │    Docker/EC2   │
-                  └───────┬─────────┘
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-          ┌─────┐      ┌─────┐     ┌──────┐
-          │ RDS │      │Groq │     │ AWS  │
-          │MySQL│      │ AI  │     │ APIs │
-          └─────┘      └─────┘     └──────┘
+                         ┌─────────────────────┐
+                         │       USER          │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   React Frontend    │
+                         │    Tailwind CSS     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     API Gateway     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Spring Boot API   │
+                         │    Docker / EC2      │
+                         └──────────┬──────────┘
+                                    │
+                   ┌────────────────┼────────────────┐
+                   │                │                │
+                   ▼                ▼                ▼
+              ┌─────────┐      ┌─────────┐      ┌─────────┐
+              │  MySQL  │      │  Groq   │      │ AWS API │
+              │   RDS   │      │   AI    │      │ Services │
+              └─────────┘      └─────────┘      └─────────┘
 ```
 
-**Stack**
+**Engineering Stack**
 
-`Java 21` `Spring Boot` `React` `Tailwind CSS` `Terraform` `AWS` `Docker` `Jenkins` `SonarQube` `Groq AI` `MySQL`
+`Java 21` · `Spring Boot` · `React` · `Tailwind CSS` · `AWS` · `Docker` · `Terraform` · `Jenkins` · `SonarQube` · `Groq` · `MySQL`
 
 ---
 
-<div align="center">
+## 🔍 HireFusion AI
 
-### 🔍 HireFusion AI
-
-**Serverless Resume & Interview Analysis Platform**
+### Serverless Resume & Interview Analysis Platform
 
 <a href="https://github.com/Godesivaramakrishna/HireFusionAI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+**Problem**
 
-> A serverless recruitment analysis pipeline designed to automate resume screening and interview analysis.
+Recruitment workflows involve large amounts of unstructured candidate information.
+
+**Solution**
+
+A serverless analysis pipeline designed to automate resume screening and interview analysis using AWS AI services.
+
+### Event-Driven Architecture
 
 ```text
-                    📄 RESUME
-                        │
-                        ▼
-                 ┌────────────┐
-                 │     S3     │
-                 └─────┬──────┘
-                       │ Trigger
-                       ▼
-                 ┌────────────┐
-                 │   Lambda   │
-                 └─────┬──────┘
-                       │
-            ┌──────────┼──────────┐
-            ▼          ▼          ▼
-        Textract   Rekognition  Analysis
-            │          │          │
-            └──────────┼──────────┘
-                       ▼
-                 ┌────────────┐
-                 │ DynamoDB   │
-                 └─────┬──────┘
-                       │
-                       ▼
-                    Results
+                    ┌───────────────┐
+                    │  RESUME FILE  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │      S3       │
+                    └───────┬───────┘
+                            │
+                       Object Event
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    Lambda     │
+                    └───────┬───────┘
+                            │
+            ┌───────────────┼────────────────┐
+            ▼               ▼                ▼
+       ┌─────────┐     ┌────────────┐   ┌──────────┐
+       │Textract │     │Rekognition │   │ Analysis │
+       └────┬────┘     └─────┬──────┘   └────┬─────┘
+            │                │               │
+            └────────────────┼───────────────┘
+                             ▼
+                     ┌───────────────┐
+                     │   DynamoDB    │
+                     └───────┬───────┘
+                             │
+                             ▼
+                         RESULTS
 ```
 
-**Stack**
+**Engineering Stack**
 
-`AWS Lambda` `S3` `Textract` `Rekognition` `DynamoDB` `API Gateway` `CloudWatch` `Python` `JavaScript`
+`Python` · `JavaScript` · `AWS Lambda` · `S3` · `Textract` · `Rekognition` · `DynamoDB` · `API Gateway` · `CloudWatch`
 
 ---
 
-<div align="center">
+## 🩸 Arogya Deeksha
 
-### 🩸 Arogya Deeksha
-
-**Scalable Blood Donation Management System**
+### Scalable Blood Donation Management System
 
 <a href="https://github.com/Godesivaramakrishna/blooddonation">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+A cloud-native platform designed to connect donors and blood banks through real-time geospatial discovery.
 
-> A cloud-native platform connecting donors and blood banks with real-time geospatial discovery.
+### Architecture
 
 ```text
-        👤 DONOR                 🏥 BLOOD BANK
-           │                           │
-           └───────────┬───────────────┘
-                       ▼
-                ┌──────────────┐
-                │ Flask Backend│
-                └──────┬───────┘
-                       │
-              ┌────────┴────────┐
-              ▼                 ▼
-        Google Maps API       MySQL
-              │                 │
-              └────────┬────────┘
-                       ▼
-                 ☁️ Cloud Run
+        ┌──────────────┐                 ┌──────────────┐
+        │    DONOR     │                 │ BLOOD BANK   │
+        └──────┬───────┘                 └──────┬───────┘
+               │                                  │
+               └────────────────┬─────────────────┘
+                                ▼
+                       ┌──────────────────┐
+                       │  Flask Backend   │
+                       └────────┬─────────┘
+                                │
+                  ┌─────────────┴─────────────┐
+                  ▼                           ▼
+          ┌────────────────┐           ┌─────────────┐
+          │ Google Maps API│           │    MySQL    │
+          └───────┬────────┘           └──────┬──────┘
+                  │                           │
+                  └─────────────┬─────────────┘
+                                ▼
+                         ┌─────────────┐
+                         │ Cloud Run   │
+                         └─────────────┘
 ```
 
-**Stack**
+**Engineering Stack**
 
-`Python` `Flask` `Docker` `GCP Cloud Run` `GitHub Actions` `Google Maps API` `MySQL`
+`Python` · `Flask` · `Docker` · `GCP Cloud Run` · `GitHub Actions` · `Google Maps API` · `MySQL`
 
 ---
 
-# 🧠 Engineering Principles
+# `05` · ENGINEERING PRINCIPLES
+
+```text
+             ┌──────────────────────┐
+             │       BUILD          │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │     UNDERSTAND       │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │      AUTOMATE        │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │       SCALE          │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │      OBSERVE         │
+             └──────────┬───────────┘
+                        ↓
+             ┌──────────────────────┐
+             │      IMPROVE         │
+             └──────────────────────┘
+```
+
+### What I optimize for
+
+* **Reliability** over unnecessary complexity
+* **Automation** over repetitive operations
+* **Scalability** over short-term shortcuts
+* **Observability** over blind deployments
+* **Security** as part of architecture
+* **Clean APIs** over tightly coupled systems
+* **Learning by building** rather than only consuming tutorials
+
+---
+
+# `06` · ENGINEERING JOURNEY
+
+```text
+2023
+ │
+ ├── B.Tech — Electronics & Communication Engineering
+ │
+ ▼
+2025
+ │
+ ├── Cloud Infrastructure Internship
+ │
+ ├── AWS Infrastructure
+ ├── VPC Networking
+ ├── IAM
+ └── Client–Server Architecture
+ │
+ ▼
+2026
+ │
+ ├── AWS Certified Developer — Associate
+ ├── Cloud-native application development
+ ├── Serverless architectures
+ ├── AI-integrated systems
+ └── Infrastructure as Code
+ │
+ ▼
+2027
+ │
+ └── B.Tech Graduation
+```
+
+---
+
+# `07` · EXPERIENCE
+
+## ☁️ Cloud Infrastructure Intern
+
+### Technical Hub Pvt. Ltd.
+
+**May 2025 — July 2025**
+
+Worked with cloud infrastructure and application deployment workflows involving:
+
+```text
+EC2
+ │
+ ├── VPC
+ │    ├── Subnets
+ │    ├── Route Tables
+ │    └── Security Groups
+ │
+ ├── IAM
+ │    └── Least-Privilege Policies
+ │
+ └── Client–Server Architecture
+```
+
+**Core exposure**
+
+* AWS EC2 infrastructure
+* VPC networking
+* Subnet and route-table configuration
+* Security groups
+* IAM roles and policies
+* Cloud application deployment
+
+---
+
+# `08` · COMPETITIVE PROGRAMMING
 
 <div align="center">
 
-```text
-       ┌──────────────────────────────┐
-       │       BUILD SOMETHING        │
-       └──────────────┬───────────────┘
-                      │
-                      ▼
-       ┌──────────────────────────────┐
-       │       UNDERSTAND WHY         │
-       └──────────────┬───────────────┘
-                      │
-                      ▼
-       ┌──────────────────────────────┐
-       │        AUTOMATE IT           │
-       └──────────────┬───────────────┘
-                      │
-                      ▼
-       ┌──────────────────────────────┐
-       │        SCALE IT              │
-       └──────────────┬───────────────┘
-                      │
-                      ▼
-       ┌──────────────────────────────┐
-       │        IMPROVE IT            │
-       └──────────────────────────────┘
-```
+### 🟠 LeetCode
+
+<a href="https://leetcode.com/u/23MH1A0424/">
+<img src="https://img.shields.io/badge/401%2B%20PROBLEMS%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+**Rating:** `1319`
+**Global Position:** `402 / 4041`
+
+`DSA` · `Dynamic Programming` · `Graphs` · `Trees` · `Arrays`
+
+---
+
+### 🟢 GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/profile/goderaw5kh">
+<img src="https://img.shields.io/badge/352%2B%20PROBLEMS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+**Coding Score:** `788`
+**Institute Rank:** `#40`
+**Articles:** `40`
+
+---
+
+### ⭐ CodeChef
+
+`1★` · `1152 Rating`
+
+---
+
+### 🟩 HackerRank
+
+`Python` · `Java` · `SQL`
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# `09` · CERTIFICATIONS
+
+<div align="center">
+
+| Certification                          | Issuer                                      | Year |
+| :------------------------------------- | :------------------------------------------ | :--: |
+| ☁️ AWS Certified Developer — Associate | Amazon Web Services                         | 2026 |
+| 🤖 Prompt Design in Vertex AI          | Google Cloud                                | 2025 |
+| 🐍 Python Essentials 1 & 2             | Cisco Networking Academy × Python Institute | 2026 |
+| 📚 Python Libraries for Data Science   | —                                           |   —  |
+| ☁️ AWS Academy Cloud Foundations       | —                                           |   —  |
+
+</div>
+
+### AWS Certified Developer — Associate
+
+**Issued:** March 2026
+**Expires:** March 2029
+
+---
+
+# `10` · GITHUB ACTIVITY
 
 <div align="center">
 
@@ -381,21 +484,11 @@ class GodeSivaramakrishnaDurgaprasad:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godesivaramakrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Godesivaramakrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godesivaramakrishna&bg_color=0D1117&color=58A6FF&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
@@ -403,7 +496,7 @@ class GodeSivaramakrishnaDurgaprasad:
 
 ---
 
-# 🐍 Contribution Snake
+# `11` · CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -411,190 +504,61 @@ class GodeSivaramakrishnaDurgaprasad:
 
 </div>
 
-> ⚠️ Requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action set up in this repo to generate the `output` branch and SVG — without it, this image will show broken.
-
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Godesivaramakrishna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-# 🧩 Competitive Programming
-
-<div align="center">
-
-### 🟠 LeetCode
-
-<a href="https://leetcode.com/u/23MH1A0424/">
-
-<img src="https://img.shields.io/badge/401%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-**Contest Rating:** 1,319<br/>
-**Global Position:** 402 / 4041<br/>
-**Focus:** DSA · Dynamic Programming · Graphs · Trees · Arrays
-
-<br/><br/>
-
-### 🟢 GeeksforGeeks
-
-<a href="https://www.geeksforgeeks.org/profile/goderaw5kh">
-
-<img src="https://img.shields.io/badge/352%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-**Coding Score:** 788<br/>
-**Institute Rank:** #40<br/>
-**Articles:** 40
-
-<br/><br/>
-
-### ⭐ CodeChef
-
-<img src="https://img.shields.io/badge/1★%20-%201152%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-<br/><br/>
-
-### 🟩 HackerRank
-
-<img src="https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-
-</div>
-
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-### ☁️ AWS Certified Developer – Associate
-
-<img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**Amazon Web Services · 2026**<br/>
-Issued: March 2026 · Expires: March 2029
-
-<br/><br/>
-
-### 🤖 Prompt Design in Vertex AI
-
-<img src="https://img.shields.io/badge/Google%20Cloud%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-**Google Cloud · 2025**
-
-<br/><br/>
-
-### 🐍 Python Essentials
-
-<img src="https://img.shields.io/badge/Python%20Essentials%201%20%26%202-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-**Cisco Networking Academy × Python Institute · 2026**
-
-<br/><br/>
-
-### 📚 Additional Certifications
-
-`Python Libraries for Data Science`
-`AWS Academy Cloud Foundations`
-
-</div>
-
----
-
-# 💼 Experience
-
-<div align="center">
-
-## ☁️ Cloud Infrastructure Intern
-
-### Technical Hub Pvt. Ltd.
-
-**May 2025 – July 2025**
-
-</div>
-
-### What I worked on
-
-* Designed and configured **EC2 infrastructure**
-* Implemented **VPC networking**
-* Configured subnets, route tables and security groups
-* Implemented **IAM roles and least-privilege policies**
-* Built a **client-server architecture on AWS**
-* Worked with real-world cloud application deployment
-
----
-
-# 🎓 Education
-
-<div align="center">
-
-## Aditya College of Engineering and Technology
-
-### B.Tech — Electronics & Communication Engineering
-
-**2023 — 2027**
-
-### ⭐ CGPA: 7.81 / 10
-
-<br/>
-
-**Pragati Junior College**
-
-Intermediate — MPC<br/>
-**2021 — 2023 · 776 / 1000**
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
+# `12` · LEARNING SYSTEM
 
 ```text
-☁️ Cloud Architecture
-        ↓
-🏗️ Infrastructure as Code
-        ↓
-⚙️ Distributed Systems
-        ↓
-🔄 Cloud Automation
-        ↓
-🤖 AI × Cloud Integration
-        ↓
-🚀 Production Engineering
+                 ┌─────────────────────┐
+                 │  CLOUD ARCHITECTURE │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ INFRASTRUCTURE CODE │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ DISTRIBUTED SYSTEMS│
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │   CLOUD AUTOMATION  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │   AI × CLOUD        │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ PRODUCTION SYSTEMS  │
+                 └─────────────────────┘
 ```
 
-</div>
+### Currently exploring
+
+* Cloud Architecture
+* Infrastructure as Code
+* Distributed Systems
+* Cloud Automation
+* AI × Cloud Integration
+* Production Engineering
 
 ---
 
-# 📌 My Developer Roadmap
+# `13` · SKILL MATURITY
 
 <div align="center">
 
-| Area                |    Status   |
+| Engineering Area    |    Level    |
 | :------------------ | :---------: |
 | Python              |  🟢 Strong  |
 | Java                |  🟢 Strong  |
 | AWS                 |  🟢 Strong  |
-| GCP                 |  🟢 Working |
-| Docker              |  🟢 Strong  |
-| Terraform           |  🟢 Working |
-| CI/CD               |  🟢 Working |
 | Backend Development |  🟢 Strong  |
+| Docker              |  🟢 Strong  |
+| GCP                 |  🟡 Working |
+| Terraform           |  🟡 Working |
+| CI/CD               |  🟡 Working |
 | Distributed Systems | 🟡 Learning |
 | System Design       | 🟡 Learning |
 | AI Engineering      |  🟡 Growing |
@@ -603,42 +567,60 @@ Intermediate — MPC<br/>
 
 ---
 
-# 📬 Let's Connect
+# `14` · WHAT I'M LOOKING FOR
+
+I'm interested in opportunities where I can work on:
+
+```text
+☁️ Cloud Engineering
+        +
+⚙️ Backend Engineering
+        +
+🧩 Distributed Systems
+        +
+🔄 DevOps / Platform Engineering
+        +
+🤖 AI Engineering
+```
+
+**Internships · New Grad Roles · Cloud · Backend · Platform · AI Infrastructure**
+
+---
+
+# `15` · LET'S BUILD
 
 <div align="center">
 
-I'm interested in opportunities involving:
+### Have an interesting system to build?
 
-**Cloud Engineering · Backend Engineering · Distributed Systems · DevOps · AI Engineering**
+Whether it's a backend service, cloud architecture, automation pipeline, distributed system, or AI-powered application—
+
+**I'm always interested in turning challenging ideas into working systems.**
 
 <br/>
 
 <a href="mailto:godesivaramakrishna@gmail.com">
-<img src="https://img.shields.io/badge/Email-godesivaramakrishna%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gsrk-durgaprasad-a00451291/">
-<img src="https://img.shields.io/badge/LinkedIn-GSRK%20Durgaprasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Godesivaramakrishna">
-<img src="https://img.shields.io/badge/GitHub-Godesivaramakrishna-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 BUILD • LEARN • SCALE • REPEAT
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=40&lines=Turning+ideas+into+cloud+systems.;Learning+something+new+every+day.;Building+for+scale.;See+you+in+the+next+commit+%F0%9F%91%8B" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
+---
+
+### `BUILD · LEARN · SCALE · REPEAT`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+ideas+into+cloud+systems.;Designing+backends+that+scale.;Automating+the+boring+stuff.;Learning+by+building.;One+commit+at+a+time+%F0%9F%9A%80"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=130&section=footer" width="100%"/>
 
 </div>
