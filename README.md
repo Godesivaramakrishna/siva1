@@ -366,36 +366,11 @@ Donors and blood banks both connect through a Flask backend deployed on Cloud Ru
 
 # `05` · ENGINEERING MINDSET
 
-```text
-                         ┌──────────────┐
-                         │    BUILD     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │  UNDERSTAND  │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   AUTOMATE   │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │    SCALE     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   OBSERVE    │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   IMPROVE    │
-                         └──────────────┘
-```
+<div align="center">
+
+**Build → Understand → Automate → Scale → Observe → Improve**
+
+</div>
 
 ### I optimize for
 
@@ -417,24 +392,7 @@ Donors and blood banks both connect through a Flask backend deployed on Cloud Ru
 
 ### Infrastructure Exposure
 
-```text
-                         AWS
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-            ▼             ▼             ▼
-           EC2           VPC           IAM
-            │             │             │
-            │       ┌─────┴─────┐       │
-            │       │           │       │
-            │    Subnets   Route Tables │
-            │       │           │       │
-            │       └─────┬─────┘       │
-            │             │             │
-            └─────────────┼─────────────┘
-                          ▼
-                 Client–Server Systems
-```
+Worked hands-on with core AWS building blocks — EC2 for compute, VPC networking (subnets and route tables), and IAM for access control — to support client-server cloud architectures.
 
 ### Responsibilities
 
