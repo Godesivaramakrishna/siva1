@@ -34,31 +34,21 @@
 
 # `01` · ENGINEERING IDENTITY
 
-```python
-class GodeSivaramakrishnaDurgaprasad:
+<div align="center">
 
-    role = "Cloud & Backend Engineer"
+### Gode Sivaramakrishna Durgaprasad
+**Cloud & Backend Engineer**
 
-    focus = [
-        "Cloud Architecture",
-        "Backend Engineering",
-        "Distributed Systems",
-        "Serverless Architecture",
-        "DevOps & Automation",
-        "AI × Cloud Integration"
-    ]
+<br/>
 
-    education = {
-        "degree": "B.Tech — Electronics & Communication Engineering",
-        "college": "Aditya College of Engineering and Technology",
-        "graduation": 2027,
-        "cgpa": "7.81 / 10"
-    }
+| | |
+|---|---|
+| 🎯 **Focus** | Cloud Architecture · Backend Engineering · Distributed Systems · Serverless Architecture · DevOps & Automation · AI × Cloud Integration |
+| 🎓 **Education** | B.Tech — Electronics & Communication Engineering, Aditya College of Engineering and Technology (Class of 2027) · CGPA 7.81 / 10 |
+| 📜 **Certification** | AWS Certified Developer — Associate |
+| 🧭 **Philosophy** | Build → Understand → Automate → Scale → Improve |
 
-    certification = "AWS Certified Developer — Associate"
-
-    philosophy = "Build → Understand → Automate → Scale → Improve"
-```
+</div>
 
 > I build cloud-native applications, backend systems, automation pipelines and AI-integrated solutions — with a growing focus on distributed systems and production engineering.
 
@@ -656,13 +646,14 @@ A cloud-native platform designed to connect blood donors and blood banks through
 
 </div>
 
-> **Important:** The snake requires a GitHub Action in the profile repository. The README alone cannot generate the SVG.
+<details>
+<summary><b>⚙️ One-time setup (click to expand)</b></summary>
 
-Create:
+<br/>
 
-`.github/workflows/snake.yml`
+The snake requires a GitHub Action in this profile repository — the README alone can't generate the SVG.
 
-with:
+Create `.github/workflows/snake.yml` with:
 
 ```yaml
 name: Generate Contribution Snake
@@ -697,13 +688,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Fix applied:** added `target_branch: output` to the publish step. Without it, `crazy-max/ghaction-github-pages@v4` defaults to publishing to `gh-pages`, but your README image points to the `output` branch — so the SVG was being generated but pushed to the wrong branch and never showing up.
+Then go to **Repository → Actions → Generate Contribution Snake → Run workflow**. Once it succeeds, the snake image above will appear.
 
-After pushing this workflow, go to:
-
-**Repository → Actions → Generate Contribution Snake → Run workflow**
-
-After it successfully runs, the snake image should appear.
+</details>
 
 ---
 
