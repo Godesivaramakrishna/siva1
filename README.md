@@ -277,37 +277,7 @@ CloudCompare AI brings cloud and AI service comparison into a unified applicatio
 
 ### 🏗️ Architecture
 
-```text
-                              ┌───────────────┐
-                              │     USER      │
-                              └───────┬───────┘
-                                      │
-                                      ▼
-                         ┌────────────────────────┐
-                         │     REACT FRONTEND     │
-                         │      TAILWIND CSS      │
-                         └────────────┬───────────┘
-                                      │
-                                      ▼
-                         ┌────────────────────────┐
-                         │      API GATEWAY       │
-                         └────────────┬───────────┘
-                                      │
-                                      ▼
-                         ┌────────────────────────┐
-                         │     SPRING BOOT API    │
-                         │       JAVA 21          │
-                         │      DOCKER / EC2      │
-                         └────────────┬───────────┘
-                                      │
-                 ┌────────────────────┼────────────────────┐
-                 │                    │                    │
-                 ▼                    ▼                    ▼
-          ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
-          │    MySQL    │      │    Groq     │      │  AWS APIs   │
-          │     RDS     │      │     AI      │      │   Services  │
-          └─────────────┘      └─────────────┘      └─────────────┘
-```
+A React + Tailwind frontend talks to an API Gateway, which routes to a Spring Boot (Java 21) service running on Docker/EC2. That service queries MySQL RDS for stored data, calls Groq AI for intelligent comparisons, and pulls live pricing/service data from AWS APIs.
 
 ### 🧰 Stack
 
@@ -343,41 +313,7 @@ HireFusion AI uses an event-driven serverless architecture to automate resume an
 
 ### ⚡ Event-Driven Architecture
 
-```text
-                     ┌────────────────┐
-                     │  RESUME FILE   │
-                     └───────┬────────┘
-                             │
-                             ▼
-                     ┌────────────────┐
-                     │       S3       │
-                     └───────┬────────┘
-                             │
-                         OBJECT EVENT
-                             │
-                             ▼
-                     ┌────────────────┐
-                     │     LAMBDA     │
-                     └───────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-        ┌──────────┐   ┌────────────┐   ┌───────────┐
-        │ Textract │   │ Rekognition│   │  Analysis │
-        └────┬─────┘   └──────┬─────┘   └─────┬─────┘
-             │                │               │
-             └────────────────┼───────────────┘
-                              ▼
-                     ┌────────────────┐
-                     │    DynamoDB    │
-                     └───────┬────────┘
-                             │
-                             ▼
-                         ┌─────────┐
-                         │ RESULTS │
-                         └─────────┘
-```
+A resume upload to S3 triggers a Lambda function, which runs Textract and Rekognition in parallel to extract and analyze the content. Results are merged and written to DynamoDB for retrieval.
 
 ### 🧰 Stack
 
@@ -414,31 +350,7 @@ A cloud-native platform designed to connect blood donors and blood banks through
 
 ### 🏗️ Architecture
 
-```text
-       ┌──────────────┐                       ┌──────────────┐
-       │    DONOR     │                       │ BLOOD BANK   │
-       └──────┬───────┘                       └──────┬───────┘
-              │                                      │
-              └────────────────┬─────────────────────┘
-                               ▼
-                       ┌─────────────────┐
-                       │  FLASK BACKEND  │
-                       └────────┬────────┘
-                                │
-                   ┌────────────┴────────────┐
-                   │                         │
-                   ▼                         ▼
-           ┌───────────────┐          ┌─────────────┐
-           │ Google Maps   │          │    MySQL    │
-           │      API      │          │  Database   │
-           └───────┬───────┘          └──────┬──────┘
-                   │                         │
-                   └────────────┬────────────┘
-                                ▼
-                        ┌──────────────┐
-                        │  CLOUD RUN   │
-                        └──────────────┘
-```
+Donors and blood banks both connect through a Flask backend deployed on Cloud Run. It uses the Google Maps API for real-time geospatial matching and MySQL for persistent storage.
 
 ### 🧰 Stack
 
