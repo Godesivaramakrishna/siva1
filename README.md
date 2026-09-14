@@ -270,9 +270,7 @@ Automation
 ### `Distributed Cloud & AI Service Comparison Platform`
 
 <a href="https://github.com/Godesivaramakrishna/Cloud-Compare-AI">
-
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </div>
@@ -340,9 +338,7 @@ CloudCompare AI brings cloud and AI service comparison into a unified applicatio
 ### `Serverless Resume & Interview Analysis Platform`
 
 <a href="https://github.com/Godesivaramakrishna/HireFusionAI">
-
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </div>
@@ -417,9 +413,7 @@ HireFusion AI uses an event-driven serverless architecture to automate resume an
 ### `Scalable Blood Donation Management System`
 
 <a href="https://github.com/Godesivaramakrishna/blooddonation">
-
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </div>
@@ -557,9 +551,7 @@ A cloud-native platform designed to connect blood donors and blood banks through
 <div align="center">
 
 <a href="https://leetcode.com/u/23MH1A0424/">
-
 <img src="https://img.shields.io/badge/LeetCode-401%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </a>
 
 <br/>
@@ -571,9 +563,7 @@ A cloud-native platform designed to connect blood donors and blood banks through
 <br/><br/>
 
 <a href="https://www.geeksforgeeks.org/profile/goderaw5kh">
-
 <img src="https://img.shields.io/badge/GeeksforGeeks-352%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
 </a>
 
 <br/>
@@ -701,11 +691,13 @@ jobs:
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
 ```
+
+**Fix applied:** added `target_branch: output` to the publish step. Without it, `crazy-max/ghaction-github-pages@v4` defaults to publishing to `gh-pages`, but your README image points to the `output` branch — so the SVG was being generated but pushed to the wrong branch and never showing up.
 
 After pushing this workflow, go to:
 
